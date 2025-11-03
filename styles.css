@@ -1,0 +1,31 @@
+body{
+	background-color:#FAF3E0;
+}
+
+div{
+	background-color:#8B5E3C;
+}
+
+h1{
+	font-size: 48px;
+	font-family:bree serif;
+	color:#E27D60;
+}
+table{
+	margin: 10px 300px;
+	border-spacing: 200px 0px;
+
+}
+
+th{
+	font-size: 40px;
+	font-family: playfair display;
+	color:#8B5E3C;
+	text-align: center;
+	background-color: #E27D60;
+
+
+
+}
+
+
