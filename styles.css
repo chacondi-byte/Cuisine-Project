@@ -2,8 +2,9 @@ body{
 	background-color:#FAF3E0;
 }
 
-div{
+.navbar{
 	background-color:#8B5E3C;
+	height:150px;
 }
 
 h1{
@@ -12,7 +13,6 @@ h1{
 	color:#E27D60;
 }
 table{
-	margin: 10px 300px;
 	border-spacing: 200px 0px;
 
 }
@@ -23,9 +23,34 @@ th{
 	color:#8B5E3C;
 	text-align: center;
 	background-color: #E27D60;
-
-
-
+	white-space: nowrap;
 }
 
+#fot{
+	height:916px;
+	width: 1424px;
+	display: block;
+	margin: auto;
+	margin-top: 25px;
+	
+}
 
+.fic {
+  position: relative;
+  text-align: center;
+  color: #FAF3E0;
+}
+
+#centered{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 150px;
+  font-family: playfair diplay;
+  font-weight: bold;
+  font-style: italic;
+  -webkit-text-stroke: 3px #E27D60;
+  text-stroke: 3px #E27D60;
+   text-shadow: 2px 2px black;
+}
